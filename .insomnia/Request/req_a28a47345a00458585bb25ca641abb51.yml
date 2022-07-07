@@ -1,0 +1,21 @@
+_id: req_a28a47345a00458585bb25ca641abb51
+type: Request
+parentId: fld_47b29ad817694d78ad2691f80e375704
+modified: 1656808573781
+created: 1656533369171
+url: "{{ _.url }}/{{ _.resource }}"
+name: READ
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656503229506
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

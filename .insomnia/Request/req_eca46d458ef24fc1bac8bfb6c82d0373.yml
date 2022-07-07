@@ -1,0 +1,21 @@
+_id: req_eca46d458ef24fc1bac8bfb6c82d0373
+type: Request
+parentId: fld_6c1e2c818da043d2a692a10cb82073d2
+modified: 1656967641808
+created: 1656808305100
+url: "{{ _.url }}/{{ _.resource }}"
+name: LIST CHALLENGES
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656698335884
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

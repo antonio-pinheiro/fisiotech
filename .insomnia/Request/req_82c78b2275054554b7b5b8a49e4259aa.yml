@@ -1,0 +1,25 @@
+_id: req_82c78b2275054554b7b5b8a49e4259aa
+type: Request
+parentId: fld_a5e4993d110d454b80e0523d84bfd3fd
+modified: 1656893849484
+created: 1656808460613
+url: "{{ _.url }}/{{ _.resource }}"
+name: READ
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: oauth2
+  grantType: authorization_code
+  accessTokenUrl: ""
+  authorizationUrl: ""
+metaSortKey: -1656808460613
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

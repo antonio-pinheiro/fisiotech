@@ -1,0 +1,13 @@
+_id: fld_0b792856d21d4346bf1683127b5a505d
+type: RequestGroup
+parentId: wrk_8d89aa51020b4720bb713e3f3c48edfb
+modified: 1656967461018
+created: 1656967039911
+name: Patologias
+description: ""
+environment:
+  resource: patologias
+environmentPropertyOrder:
+  "&":
+    - resource
+metaSortKey: -1656503229512.25

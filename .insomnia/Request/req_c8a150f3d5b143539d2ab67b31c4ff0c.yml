@@ -1,0 +1,30 @@
+_id: req_c8a150f3d5b143539d2ab67b31c4ff0c
+type: Request
+parentId: fld_47b29ad817694d78ad2691f80e375704
+modified: 1656967425020
+created: 1656533369172
+url: "{{ _.url }}/{{ _.resource }}"
+name: CREATE
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+    	"nome": "demetrio",
+    	"telefone": "dasdad",
+    	"idade": "asdad",
+    	"email": "asdad",
+    	"origem": "asdasdas"
+    }
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656503229531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

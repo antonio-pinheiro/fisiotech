@@ -1,0 +1,21 @@
+_id: req_36d3b73914e14de7b12194a8c80936c0
+type: Request
+parentId: fld_5628202c511642bc965ea1629b877804
+modified: 1656967018470
+created: 1656966984549
+url: ""
+name: READ ONE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656966967994.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

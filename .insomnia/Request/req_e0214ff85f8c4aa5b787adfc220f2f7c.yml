@@ -1,0 +1,30 @@
+_id: req_e0214ff85f8c4aa5b787adfc220f2f7c
+type: Request
+parentId: fld_2e4e64da6cdc415abd59e40e1ea7a5bd
+modified: 1656967413729
+created: 1656893711008
+url: "{{ _.url }}/{{ _.resource }}"
+name: AUTHENTICATE
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "asdasd",
+    	"password": "asdasdas"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a506fea542484bf98cc13f9d93213031
+authentication: {}
+metaSortKey: -1656893711008
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

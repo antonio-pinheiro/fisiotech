@@ -1,0 +1,25 @@
+_id: req_1f8693e1a2fd4f24b07f523f89412286
+type: Request
+parentId: fld_a5e4993d110d454b80e0523d84bfd3fd
+modified: 1656809009322
+created: 1656808537053
+url: "{{ _.url }}/{{ _.resource }}"
+name: UPDATE
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1656808460513
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
